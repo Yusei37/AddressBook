@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="photo_id">
+            
+        <item>zs</item>
+            
+        <item>ls</item>
+                
+        <item>ww</item>
+                
+        <item>ql</item>
+                
+        <item>zq</item>
+            
+    </string-array>
+
+    <string-array name="person_name">
+            
+        <item>张三</item>
+            
+        <item>李四</item>
+                
+        <item>王五</item>
+                
+        <item>钱六</item>
+                
+        <item>赵七</item>
+            
+    </string-array>
+
+    <string-array name="phone_number">
+            
+        <item>180</item>
+            
+        <item>181</item>
+                
+        <item>182</item>
+                
+        <item>183</item>
+                
+        <item>184</item>
+            
+    </string-array>
+</resources>
