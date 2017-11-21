@@ -16,15 +16,15 @@
 
     <string-array name="person_name">
             
-        <item>张三</item>
+        <item>zhangsan</item>
             
-        <item>李四</item>
+        <item>lisi</item>
                 
-        <item>王五</item>
+        <item>wangwu</item>
                 
-        <item>钱六</item>
+        <item>qianliu</item>
                 
-        <item>赵七</item>
+        <item>zhaoqi</item>
             
     </string-array>
 
